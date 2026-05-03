@@ -5,7 +5,7 @@ A lightweight, reliable NAS setup using Raspberry Pi OS Lite, Samba, and an exte
 ## 🧰 Prerequisites
 
 - Raspberry Pi 4 (or similar)
-- Raspberry Pi OS Lite (Debian Bookworm)
+- Raspberry Pi OS Lite (Debian Bookworm 12)
 - External HDD (exFAT in this setup)
 - Network connection (Ethernet recommended)
 
@@ -322,14 +322,3 @@ This setup provides:
 - Avoid sudden power cuts
 
 ---
-
-## 📁 License / Usage
-
-Free to use, modify, and extend.
-
-**If you want later, I can convert this into:**
-- 📘 GitHub repo structure
-- 🐳 Docker-based setup
-- ⚙️ Fully automated script
-
-Just tell me 👍
