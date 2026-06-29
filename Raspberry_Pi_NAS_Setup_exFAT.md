@@ -251,6 +251,14 @@ sudo systemctl enable smbd
 
 ---
 
+### ❌ Unplugged or Restarted
+
+```bash
+sudo mount -a
+```
+
+---
+
 ## 🔐 Security Notes
 
 - NAS is only accessible within local network
